@@ -1,4 +1,5 @@
 "use strict";
+// import { NumbersCollection } from "./NumbersCollection";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Sorter = void 0;
 class Sorter {
